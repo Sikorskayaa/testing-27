@@ -1,0 +1,26 @@
+.form {
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.inputForm {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.btnAdd {
+  width: 200px;
+  margin: 0 auto;
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
